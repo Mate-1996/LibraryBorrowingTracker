@@ -44,7 +44,7 @@
 3. **Book ↔ Loan** (1:N, Delete Rule: Cascade)
    - `Book.loans` ↔ `Loan.book`
 
-![Core Data Diagram](ScreenShot/Diagram.png)
+![Core Data Diagram](ScreenShots/Diagram.png)
 
 ---
 
@@ -53,46 +53,46 @@
 ### Books Screen
 Browse, search, and filter books by category. Add new books or edit existing ones.
 
-![Books Screen](ScreenShot/BookScreen.png)
+![Books Screen](ScreenShots/BookScreen.png)
 
 ---
 
 ### Members Screen
 View all library members and their borrowing history.
 
-![Members Screen](ScreenShot/MemberScreen.png)
+![Members Screen](ScreenShots/MemberScreen.png)
 
 ---
 
 ### Borrow Screen
 Select available books to borrow for a member.
 
-![Borrow Screen](ScreenShot/BorrowScreen.png)
+![Borrow Screen](ScreenShots/BorrowScreen.png)
 
-![Borrow Screen Detail](ScreenShot/BorrowScreen1.png)
+![Borrow Screen Detail](ScreenShots/BorrowScreen1.png)
 
 ---
 
 ### Loans Screen
 Track all loans with status indicators (Active, Returned, Overdue).
 
-![Loans Screen](ScreenShot/LoanScreen.png)
+![Loans Screen](ScreenShots/LoanScreen.png)
 
 
 
 ## Core Data Relationship Details
 
 ### Category → Book Relationship
-![Category to Book](ScreenShot/Category.png)
-![Book to Category](ScreenShot/Book1.png)
+![Category to Book](ScreenShots/Category.png)
+![Book to Category](ScreenShots/Book1.png)
 
 ### Member → Loan Relationship
-![Member to Loan](ScreenShot/Member.png)
-![Loan to Member](ScreenShot/Loan2.png)
+![Member to Loan](ScreenShots/Member.png)
+![Loan to Member](ScreenShots/Loan2.png)
 
 ### Book → Loan Relationship
-![Book to Loan](ScreenShot/Book2.png)
-![Loan to Book](ScreenShot/Loan1.png)
+![Book to Loan](ScreenShots/Book2.png)
+![Loan to Book](ScreenShots/Loan1.png)
 
 
 
